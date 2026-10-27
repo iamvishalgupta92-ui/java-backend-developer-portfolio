@@ -1,16 +1,28 @@
-# React + Vite
+ # Vishal Gupta | Java Backend Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A personal portfolio showcasing my skills, projects, and experience in Java Backend Development.
 
-Currently, two official plugins are available:
+## About Me
+I am a Computer Science graduate focused on building secure, scalable, and reliable backend applications using Java and Spring Boot.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- **Languages:** Java, JavaScript, SQL
+- **Backend:** Spring Boot, Spring Security, REST APIs, JPA/Hibernate
+- **Database & Messaging:** PostgreSQL, MySQL, Redis, Apache Kafka
+- **Tools:** Git, GitHub, Docker, Maven, Postman
+- **Frontend:** React, HTML, CSS
 
-## React Compiler
+## Featured Projects
+- **Wallet System:** Secure wallet backend with authentication, transaction handling, and Kafka integration.
+- **Multi-Tenant B2B SaaS Backend:** Scalable backend with tenant-aware architecture and subscription management.
+- **Import Export ERP System:** Java-based ERP application with product, order, and reporting modules.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Portfolio
+Visit my live portfolio to explore my work, technical skills, and projects.
 
-## Expanding the Oxlint configuration
+## Contact
+- GitHub: https://github.com/iamvishalgupta92-ui
+- LinkedIn: Add your LinkedIn profile URL here.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+Built with React and Vite.
